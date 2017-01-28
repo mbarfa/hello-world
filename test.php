@@ -1,5 +1,5 @@
 <?php
 print 'hello';
-print 'get';
+print 'git commit';
 //https://www.youtube.com/watch?v=HVsySz-h9r4;
 ?>
